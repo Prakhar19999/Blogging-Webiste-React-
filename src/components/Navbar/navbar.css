@@ -1,0 +1,12 @@
+.navbar ul li{
+    font-size: 15px;
+    list-style: none;
+    display:inline-block;
+    text-decoration: none;
+    margin:0 5px;
+    text-transform: capitalize;
+}
+.navbar ul{
+margin:0;
+padding:0;
+}
